@@ -15,3 +15,5 @@ and you should see:
 ```bash
 Waiting for requests on http://localhost:8080/
 ```
+
+You can also simply run the `io.github.benas.Webapp` class from within your IDE.
