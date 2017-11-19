@@ -1,7 +1,5 @@
 This is a skeleton project to run a web.xml-free web application in an embedded Tomcat.
 
-Ok, there is a wonderful thing called spring boot. But I do prefer boilerplate (that I understand and control) than magic (that I don't understand and don't control). no offense.
-
 3 lines of vanilla bash:
 
 ```bash
